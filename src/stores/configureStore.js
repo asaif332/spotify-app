@@ -1,4 +1,3 @@
-import { routerMiddleware } from 'react-router-redux';
 import { createStore , applyMiddleware } from 'redux';
 import  { createLogger } from 'redux-logger'
 import  { browserHistory } from 'react-router'
